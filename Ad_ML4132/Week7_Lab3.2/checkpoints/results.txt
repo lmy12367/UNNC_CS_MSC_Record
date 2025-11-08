@@ -1,0 +1,5 @@
+===== Final Results =====
+Train Accuracy: 0.9368
+Val Accuracy:   0.8789
+Train Dice:     0.8459
+Val Dice:       0.6872
